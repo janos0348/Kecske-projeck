@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.kiemel{
+    border: 2px solid red;
+    cursor: -webkit-grab; cursor: grab;
+}
