@@ -5,6 +5,7 @@
     cursor: -webkit-grab; cursor: grab;
     
 }
+<<<<<<< HEAD
 
 main{
     display: grid;
@@ -55,3 +56,9 @@ article{
     background-color: blue;
     border-style: solid;
 }
+=======
+img{
+    width:50px;
+    
+}
+>>>>>>> 312b74b035de61cf8cbcaf36faa38416cbe46fd8
