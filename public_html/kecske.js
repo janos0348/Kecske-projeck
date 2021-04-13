@@ -9,8 +9,8 @@ function $(nev){
 
 
 function init(){
-    var kepElemCim=document.querySelectorAll(".kepek");
-    var kepElem=$(".kepek");
+    var kepElemCim=document.querySelectorAll("img");
+    var kepElem=$("img");
     for (var i = 0; i < kepElem.length; i++) {
         kepElem[i].addEventListener("mouseover",formazFel);
         kepElem[i].addEventListener("mouseout",formazLe);  

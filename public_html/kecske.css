@@ -3,4 +3,9 @@
 .kiemel{
     border: 2px solid red;
     cursor: -webkit-grab; cursor: grab;
+    
+}
+img{
+    width:50px;
+    
 }
